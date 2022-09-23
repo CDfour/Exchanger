@@ -1,0 +1,7 @@
+username: "service_user"
+password: "secret"
+host: "localhost"
+port: "7432"
+database: "currencies"
+apikey: "qrgJSJBSm7naERDxuQGrvtpkraaOxnEq"
+schedule: "*/15 * * * *"
