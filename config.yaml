@@ -1,0 +1,8 @@
+PG_USER: "service_user"
+PG_PASSWORD: "secret"
+PG_HOST: "localhost"
+PG_PORT: "7432"
+PG_DATABASE: "currencies"
+PG_SSL_MODE: "disable"
+APIKEY: ""
+SCHEDULE: "*/15 * * * *"
