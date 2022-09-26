@@ -8,7 +8,7 @@
 Также можно указать время на которое нужен курс в формате гггг-мм-дд чч:мм:сс  
 Примеры эндпоинтов:  
 http://localhost:8080/currencies  
-http://localhost:8080/rates?symbols=RUB&time=2022-09-20%2020:00:00  
+http://localhost:8080/rates?currencies=RUB&time=2022-09-20%2020:00:00  
 Для создания сервера и обработки запросов используется пакет [gin](https://github.com/gin-gonic/gin)  
 Для запуска планировщика используется пакет [cron](https://github.com/robfig/cron)  
 В качестве драйвера PostgreSQL выбор пал на [pgx](https://github.com/jackc/pgx)  
