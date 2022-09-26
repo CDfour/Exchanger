@@ -15,6 +15,6 @@ http://localhost:8080/rates?currencies=RUB&time=2022-09-20%2020:00:00
 Для логирования использовался пакет [logrus]("github.com/sirupsen/logrus")  
 Документация реализована с помощью [swagger](https://github.com/swaggo/swag)  
   
-Todo:
- -docker-compose
+Todo:  
+ -docker-compose  
  -миграции
